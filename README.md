@@ -1,24 +1,28 @@
-# mapa-brasil-dinamico
+# Mapa Brasil Dinâmico
 
-## Project setup
-```
+![image](https://github.com/KnSXl/MAPA-BRASIL-DINAMICO/assets/139629722/98b5f1e9-1025-463f-a23f-7b3cb519220c)
+
+## Configuração do Projeto
+
+### Instalação de Dependências
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+### Compilar e Recarregar Automaticamente para Desenvolvimento
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
+### Compilar e Minificar para Produção
+```bash
 npm run build
 ```
 
-### Lints and fixes files
-```
+### Verificar e Corrigir Arquivos
+```bash
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configuração Personalizada
+Para informações sobre configuração personalizada, consulte [Referência de Configuração](https://cli.vuejs.org/config/).
