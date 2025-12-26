@@ -190,6 +190,11 @@ export default {
 </script>
 
 <style scoped>
+svg {
+    width: 100%;
+    height: 100%;
+}
+    
 path {
     fill: #DBE1E8;
     stroke: black;
@@ -203,6 +208,6 @@ path:hover {
 
 .brasilMap {
     width: 50%;
-    height: auto;
+    height: 100%;
 }
 </style>
